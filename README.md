@@ -29,7 +29,7 @@ cake-website/
 How to Use
 Download or Clone the projject
 git clone
-https://github.com/MadhumithamMad/cakeproject-website.git
+https://github.com/MadhumithamMad/cakeproject
 Navigate to the project folderr:
 cd-cake-website
 open the index.html file in your browser to view the website.
